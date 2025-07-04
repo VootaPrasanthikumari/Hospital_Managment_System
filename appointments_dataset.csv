@@ -1,0 +1,301 @@
+appt_id,patient_id,doctor_id,date,diagnosis,consulting_charge
+A001,1016,D202,2026-02-22,Urinary Tract Infection (UTI),363.41
+A002,1027,D247,2024-06-05,"Cholecystitis, Acute",178.76
+A003,1123,D64,2025-08-04,Gastroenteritis,152.08
+A004,1033,D08,2024-05-18,Deep Vein Thrombosis (DVT),298.09
+A005,1271,D109,2025-05-28,Sepsis,373.76
+A006,1012,D46,2025-02-20,"Appendicitis, Acute",240.4
+A007,1161,D68,2025-05-20,"Pneumonia, Bacterial",491.34
+A008,1100,D67,2025-11-14,Asthma Exacerbation,358.17
+A009,1256,D199,2025-07-15,"Fracture, Hip",266.42
+A010,1048,D131,2024-04-23,"Hypertension, Uncontrolled",226.45
+A011,1102,D169,2026-03-20,Kidney Stone (Nephrolithiasis),204.43
+A012,1101,D118,2025-09-21,"Stroke, Ischemic",378.07
+A013,1074,D296,2025-01-16,Asthma Exacerbation,247.36
+A014,1001,D150,2024-12-13,Asthma Exacerbation,76.86
+A015,1131,D13,2024-10-09,"Pneumonia, Bacterial",229.12
+A016,1027,D42,2024-07-26,Kidney Stone (Nephrolithiasis),382.1
+A017,1180,D220,2025-07-18,Sepsis,132.12
+A018,1021,D274,2025-01-20,Sepsis,128.95
+A019,1095,D38,2025-12-09,Acute Myocardial Infarction,289.2
+A020,1135,D139,2024-07-25,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,289.32
+A021,1272,D259,2025-06-06,"Stroke, Ischemic",335.48
+A022,1028,D166,2025-03-26,Gastroenteritis,432.24
+A023,1043,D06,2025-09-23,Gastroenteritis,376
+A024,1238,D157,2024-06-19,Kidney Stone (Nephrolithiasis),324.96
+A025,1007,D87,2024-03-21,"Appendicitis, Acute",375.1
+A026,1274,D65,2025-03-26,Pulmonary Embolism,195.33
+A027,1173,D281,2024-12-12,Pulmonary Embolism,212.8
+A028,1080,D32,2026-04-16,"Fracture, Hip",152.72
+A029,1252,D249,2025-09-06,Migraine Headache,182.17
+A030,1231,D226,2025-05-22,Kidney Stone (Nephrolithiasis),333.94
+A031,1104,D178,2025-03-28,"Appendicitis, Acute",91.45
+A032,1241,D98,2025-07-14,"Stroke, Ischemic",245.17
+A033,1063,D25,2025-01-05,"Diabetes Mellitus, Type 2, Uncontrolled",243.89
+A034,1183,D201,2025-04-29,Urinary Tract Infection (UTI),272.16
+A035,1159,D288,2025-08-09,Sepsis,241.62
+A036,1243,D54,2024-08-07,"Heart Failure, Congestive",190.52
+A037,1095,D38,2025-03-16,"Fracture, Hip",241.86
+A038,1120,D143,2025-08-22,Asthma Exacerbation,452.03
+A039,1231,D256,2025-10-23,Acute Myocardial Infarction,474.87
+A040,1154,D02,2025-09-17,Gastroenteritis,275.83
+A041,1206,D237,2025-08-26,Urinary Tract Infection (UTI),330.78
+A042,1192,D26,2025-07-07,"Cholecystitis, Acute",102.03
+A043,1200,D10,2025-06-13,Gastroenteritis,192.78
+A044,1268,D44,2026-01-09,Pulmonary Embolism,236.67
+A045,1146,D138,2026-02-04,Cellulitis,439.84
+A046,1201,D282,2025-07-16,"Pneumonia, Bacterial",162.7
+A047,1113,D199,2024-10-24,Gastroenteritis,267.37
+A048,1010,D18,2025-01-29,"Heart Failure, Congestive",493.5
+A049,1227,D46,2025-09-02,"Stroke, Ischemic",283.77
+A050,1055,D139,2024-12-27,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,325.8
+A051,1247,D28,2024-06-02,Pulmonary Embolism,104.28
+A052,1275,D201,2025-03-07,Urinary Tract Infection (UTI),421.85
+A053,1198,D108,2025-05-29,Deep Vein Thrombosis (DVT),321.38
+A054,1052,D287,2025-06-12,Acute Myocardial Infarction,295.28
+A055,1102,D246,2025-12-27,Anxiety Disorder,204.24
+A056,1118,D246,2026-05-12,"Fracture, Hip",186.85
+A057,1022,D71,2025-02-22,Deep Vein Thrombosis (DVT),237.66
+A058,1138,D130,2025-10-19,Asthma Exacerbation,356.59
+A059,1172,D202,2025-12-10,"Hypertension, Uncontrolled",443.96
+A060,1101,D27,2025-01-13,"Fracture, Hip",279.69
+A061,1057,D03,2024-12-29,"Pneumonia, Bacterial",351.19
+A062,1027,D99,2024-09-19,"Heart Failure, Congestive",313.67
+A063,1189,D121,2024-12-14,"Diabetes Mellitus, Type 2, Uncontrolled",331.21
+A064,1004,D237,2024-11-25,Gastroenteritis,353.61
+A065,1106,D245,2025-09-23,"Appendicitis, Acute",429.05
+A066,1069,D18,2025-06-07,Kidney Stone (Nephrolithiasis),87.44
+A067,1160,D20,2024-09-26,Asthma Exacerbation,393.66
+A068,1218,D278,2025-04-08,"Fracture, Hip",159.65
+A069,1273,D87,2025-08-13,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,137.4
+A070,1192,D38,2025-05-13,"Hypertension, Uncontrolled",307.61
+A071,1298,D238,2026-01-06,"Pneumonia, Bacterial",93.07
+A072,1290,D236,2025-08-16,Gastroenteritis,448.4
+A073,1189,D182,2025-02-22,Deep Vein Thrombosis (DVT),332.26
+A074,1071,D231,2025-09-17,"Hypertension, Uncontrolled",375.54
+A075,1146,D258,2026-04-29,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,57.26
+A076,1054,D256,2025-05-16,"Heart Failure, Congestive",317.49
+A077,1298,D79,2026-04-23,"Cholecystitis, Acute",300.55
+A078,1134,D127,2025-01-10,"Pneumonia, Bacterial",121.53
+A079,1226,D296,2024-08-23,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,118.88
+A080,1014,D111,2024-11-08,Gastroenteritis,362.99
+A081,1041,D188,2025-02-08,"Diabetes Mellitus, Type 2, Uncontrolled",193.44
+A082,1058,D254,2024-07-09,"Heart Failure, Congestive",361.39
+A083,1077,D264,2024-09-09,"Pneumonia, Bacterial",299.47
+A084,1106,D181,2024-10-24,"Pneumonia, Bacterial",225.03
+A085,1082,D105,2025-02-04,Asthma Exacerbation,466.31
+A086,1131,D208,2024-06-09,Sepsis,428.75
+A087,1127,D01,2025-01-21,Asthma Exacerbation,210.83
+A088,1033,D106,2024-04-06,Sepsis,69.62
+A089,1019,D228,2024-10-04,"Stroke, Ischemic",187.15
+A090,1107,D194,2024-07-02,Asthma Exacerbation,229.18
+A091,1027,D24,2025-05-01,"Stroke, Ischemic",367.23
+A092,1130,D216,2025-10-15,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,497.91
+A093,1003,D184,2025-02-16,Cellulitis,210.16
+A094,1161,D134,2025-02-07,Deep Vein Thrombosis (DVT),393.15
+A095,1023,D32,2026-01-11,"Hypertension, Uncontrolled",316.93
+A096,1209,D179,2025-04-27,"Hypertension, Uncontrolled",361.27
+A097,1122,D224,2024-06-01,Kidney Stone (Nephrolithiasis),118.01
+A098,1296,D60,2025-06-28,Gastroenteritis,229.49
+A099,1079,D191,2025-10-17,Gastroenteritis,158.39
+A100,1142,D22,2025-04-19,"Pneumonia, Bacterial",204.56
+A101,1226,D62,2024-12-09,Kidney Stone (Nephrolithiasis),280.91
+A102,1101,D108,2025-09-10,Anxiety Disorder,349.98
+A103,1105,D234,2025-06-03,"Diabetes Mellitus, Type 2, Uncontrolled",97.66
+A104,1192,D85,2025-06-01,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,108.9
+A105,1291,D268,2025-10-06,Acute Myocardial Infarction,194.89
+A106,1266,D295,2025-03-27,Sepsis,347.7
+A107,1126,D50,2024-12-25,"Hypertension, Uncontrolled",430.93
+A108,1216,D09,2026-05-06,Deep Vein Thrombosis (DVT),298.97
+A109,1204,D219,2026-02-26,Kidney Stone (Nephrolithiasis),434.5
+A110,1112,D230,2024-09-10,"Stroke, Ischemic",223.18
+A111,1071,D271,2025-06-14,"Heart Failure, Congestive",192.55
+A112,1024,D202,2025-06-09,Cellulitis,209.42
+A113,1264,D235,2025-04-26,Kidney Stone (Nephrolithiasis),126.99
+A114,1018,D110,2025-09-29,Cellulitis,423.1
+A115,1156,D31,2025-02-14,Urinary Tract Infection (UTI),202.4
+A116,1162,D300,2025-06-26,Kidney Stone (Nephrolithiasis),298.57
+A117,1044,D182,2024-09-04,Anxiety Disorder,310.35
+A118,1197,D82,2024-08-18,"Fracture, Hip",284.69
+A119,1275,D268,2024-08-11,Gastroenteritis,51.21
+A120,1233,D23,2025-11-07,"Appendicitis, Acute",494.76
+A121,1117,D18,2025-07-29,Pulmonary Embolism,457.4
+A122,1038,D77,2025-12-29,"Stroke, Ischemic",143.44
+A123,1293,D40,2025-06-30,Anxiety Disorder,181.62
+A124,1156,D124,2024-11-20,"Fracture, Hip",284
+A125,1189,D187,2025-02-26,Urinary Tract Infection (UTI),455.86
+A126,1241,D156,2024-12-17,"Heart Failure, Congestive",492.63
+A127,1116,D167,2024-11-29,Kidney Stone (Nephrolithiasis),165.89
+A128,1019,D36,2024-05-28,"Appendicitis, Acute",303.96
+A129,1041,D161,2024-05-17,"Fracture, Hip",413.14
+A130,1201,D293,2025-11-06,Pulmonary Embolism,227.47
+A131,1105,D99,2025-12-11,"Appendicitis, Acute",378.98
+A132,1262,D240,2025-07-19,Cellulitis,122.48
+A133,1223,D192,2025-01-03,"Diabetes Mellitus, Type 2, Uncontrolled",320.31
+A134,1295,D229,2025-05-04,"Heart Failure, Congestive",439.64
+A135,1201,D198,2025-11-22,Sepsis,492.58
+A136,1092,D132,2024-07-20,"Fracture, Hip",85.71
+A137,1238,D71,2025-03-17,Kidney Stone (Nephrolithiasis),242.76
+A138,1009,D29,2026-02-27,"Fracture, Hip",142.04
+A139,1157,D34,2024-09-30,Sepsis,252.79
+A140,1262,D31,2025-05-30,Sepsis,296.49
+A141,1155,D231,2024-07-02,"Cholecystitis, Acute",92
+A142,1042,D252,2025-06-13,Asthma Exacerbation,183.59
+A143,1151,D246,2024-04-05,Cellulitis,467.41
+A144,1164,D266,2025-04-01,"Pneumonia, Bacterial",306.05
+A145,1111,D108,2024-08-04,"Hypertension, Uncontrolled",255.84
+A146,1269,D203,2025-03-28,Sepsis,389.09
+A147,1103,D247,2026-01-16,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,383.84
+A148,1082,D40,2025-06-27,Anxiety Disorder,71.86
+A149,1152,D01,2025-06-14,Kidney Stone (Nephrolithiasis),368.91
+A150,1061,D63,2025-12-08,"Hypertension, Uncontrolled",427.66
+A151,1097,D275,2025-04-14,Migraine Headache,124.67
+A152,1120,D243,2025-08-10,Migraine Headache,401.45
+A153,1282,D39,2025-01-08,Anxiety Disorder,178.94
+A154,1025,D255,2024-07-07,Deep Vein Thrombosis (DVT),187.91
+A155,1060,D53,2026-01-11,Urinary Tract Infection (UTI),349.37
+A156,1060,D81,2025-05-28,"Appendicitis, Acute",100.13
+A157,1299,D51,2024-07-13,"Stroke, Ischemic",349.19
+A158,1268,D266,2025-08-17,"Diabetes Mellitus, Type 2, Uncontrolled",449.54
+A159,1059,D249,2025-04-04,Asthma Exacerbation,363.34
+A160,1170,D20,2025-07-30,Deep Vein Thrombosis (DVT),248.15
+A161,1026,D08,2025-03-27,Sepsis,247.2
+A162,1096,D238,2026-02-07,Anxiety Disorder,394.29
+A163,1103,D119,2026-03-14,"Cholecystitis, Acute",304.54
+A164,1162,D171,2025-05-12,Anxiety Disorder,88.21
+A165,1279,D192,2025-04-28,"Appendicitis, Acute",312.2
+A166,1243,D164,2024-04-23,Cellulitis,416.68
+A167,1161,D57,2025-09-11,"Diabetes Mellitus, Type 2, Uncontrolled",201.68
+A168,1236,D94,2024-12-14,Deep Vein Thrombosis (DVT),467.41
+A169,1146,D180,2026-01-19,"Appendicitis, Acute",387.82
+A170,1220,D236,2025-04-02,Asthma Exacerbation,308.33
+A171,1234,D102,2025-06-02,"Pneumonia, Bacterial",388.24
+A172,1078,D07,2025-03-21,Migraine Headache,85.62
+A173,1250,D44,2024-06-12,"Hypertension, Uncontrolled",436.73
+A174,1174,D86,2025-07-26,Pulmonary Embolism,419.68
+A175,1146,D289,2025-09-23,"Pneumonia, Bacterial",459.44
+A176,1119,D129,2024-12-15,Gastroenteritis,107.88
+A177,1068,D150,2025-09-08,Sepsis,86.8
+A178,1151,D127,2024-10-12,Urinary Tract Infection (UTI),112.29
+A179,1038,D260,2025-10-20,"Diabetes Mellitus, Type 2, Uncontrolled",229.72
+A180,1191,D241,2024-06-26,Gastroenteritis,240.94
+A181,1270,D47,2024-07-25,Migraine Headache,303
+A182,1238,D200,2024-07-20,Urinary Tract Infection (UTI),105.01
+A183,1183,D165,2025-03-22,Urinary Tract Infection (UTI),140.63
+A184,1149,D270,2024-09-13,Cellulitis,415.24
+A185,1209,D19,2026-01-12,Asthma Exacerbation,260.59
+A186,1037,D174,2024-09-22,Urinary Tract Infection (UTI),413.57
+A187,1016,D57,2025-10-05,"Diabetes Mellitus, Type 2, Uncontrolled",53.34
+A188,1259,D171,2025-03-28,Sepsis,298.22
+A189,1109,D246,2024-12-10,"Cholecystitis, Acute",469.37
+A190,1201,D131,2025-10-24,Anxiety Disorder,311.98
+A191,1127,D161,2024-10-03,"Appendicitis, Acute",142.74
+A192,1108,D110,2025-01-12,Anxiety Disorder,372.99
+A193,1232,D284,2024-03-23,"Heart Failure, Congestive",220.54
+A194,1103,D259,2025-11-05,Cellulitis,350.77
+A195,1227,D27,2026-01-01,"Heart Failure, Congestive",63.19
+A196,1247,D13,2024-11-06,Migraine Headache,336.16
+A197,1055,D161,2024-10-27,Anxiety Disorder,64.49
+A198,1294,D94,2025-06-07,"Stroke, Ischemic",385.15
+A199,1019,D10,2024-12-11,Cellulitis,262.81
+A200,1125,D203,2025-08-04,"Heart Failure, Congestive",104.79
+A201,1151,D47,2024-09-15,Anxiety Disorder,294.19
+A202,1249,D194,2025-05-31,Sepsis,80.05
+A203,1053,D30,2025-05-20,Acute Myocardial Infarction,344.01
+A204,1168,D215,2025-01-13,"Diabetes Mellitus, Type 2, Uncontrolled",498.24
+A205,1111,D252,2025-05-23,"Diabetes Mellitus, Type 2, Uncontrolled",396.23
+A206,1277,D240,2024-11-09,Kidney Stone (Nephrolithiasis),308.2
+A207,1037,D265,2024-10-28,Anxiety Disorder,96.19
+A208,1080,D185,2026-03-10,"Diabetes Mellitus, Type 2, Uncontrolled",364.93
+A209,1246,D101,2025-06-11,Kidney Stone (Nephrolithiasis),347.53
+A210,1097,D55,2024-11-15,"Stroke, Ischemic",72.09
+A211,1284,D198,2025-03-25,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,406.53
+A212,1016,D293,2026-01-28,"Appendicitis, Acute",283.42
+A213,1117,D198,2026-01-23,"Stroke, Ischemic",241.64
+A214,1033,D32,2024-06-10,Gastroenteritis,404.68
+A215,1173,D14,2024-04-30,"Heart Failure, Congestive",235.21
+A216,1289,D46,2025-01-29,"Pneumonia, Bacterial",266.46
+A217,1098,D241,2024-07-28,"Diabetes Mellitus, Type 2, Uncontrolled",131.73
+A218,1195,D41,2025-06-22,Sepsis,194.59
+A219,1080,D212,2025-12-18,Asthma Exacerbation,430.49
+A220,1132,D176,2024-10-30,"Diabetes Mellitus, Type 2, Uncontrolled",134.11
+A221,1172,D110,2026-01-05,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,237.78
+A222,1075,D127,2026-03-12,Pulmonary Embolism,495.07
+A223,1208,D79,2024-10-03,Deep Vein Thrombosis (DVT),156.47
+A224,1151,D124,2025-02-09,"Stroke, Ischemic",462.57
+A225,1272,D56,2025-09-26,Anxiety Disorder,463.28
+A226,1083,D159,2025-06-10,"Appendicitis, Acute",91.08
+A227,1287,D199,2025-10-29,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,258.64
+A228,1055,D165,2025-08-01,Asthma Exacerbation,276
+A229,1006,D298,2025-11-05,Urinary Tract Infection (UTI),191.15
+A230,1199,D278,2025-01-13,"Appendicitis, Acute",71.3
+A231,1221,D268,2025-03-16,Cellulitis,158.76
+A232,1144,D182,2025-12-22,"Diabetes Mellitus, Type 2, Uncontrolled",92.99
+A233,1013,D44,2024-12-29,Sepsis,157.21
+A234,1300,D228,2024-08-19,Urinary Tract Infection (UTI),413.51
+A235,1043,D284,2025-11-23,Migraine Headache,452.74
+A236,1262,D181,2025-05-31,Gastroenteritis,69.45
+A237,1268,D137,2025-04-12,"Hypertension, Uncontrolled",185.88
+A238,1067,D197,2025-11-16,Acute Myocardial Infarction,491.26
+A239,1260,D189,2025-09-05,Anxiety Disorder,292.78
+A240,1140,D249,2024-03-03,"Fracture, Hip",331.84
+A241,1270,D144,2025-02-25,Cellulitis,52.5
+A242,1267,D112,2025-01-09,Asthma Exacerbation,268.21
+A243,1233,D243,2025-10-26,Asthma Exacerbation,494.75
+A244,1087,D140,2026-03-14,Anxiety Disorder,218.83
+A245,1175,D195,2025-10-18,"Diabetes Mellitus, Type 2, Uncontrolled",93.67
+A246,1295,D86,2025-07-07,Migraine Headache,257.86
+A247,1097,D162,2024-10-29,Urinary Tract Infection (UTI),483.35
+A248,1116,D169,2025-02-16,"Heart Failure, Congestive",203.82
+A249,1207,D176,2025-03-03,"Appendicitis, Acute",409.52
+A250,1019,D236,2024-02-08,Cellulitis,409.48
+A251,1077,D102,2024-08-26,Sepsis,143.71
+A252,1051,D51,2025-03-12,Deep Vein Thrombosis (DVT),249.52
+A253,1125,D113,2025-05-12,Urinary Tract Infection (UTI),372.02
+A254,1128,D176,2024-08-02,Migraine Headache,234.73
+A255,1183,D148,2025-12-22,"Heart Failure, Congestive",135.95
+A256,1150,D112,2024-04-09,"Diabetes Mellitus, Type 2, Uncontrolled",485.37
+A257,1050,D127,2025-07-02,Deep Vein Thrombosis (DVT),342.84
+A258,1014,D54,2024-07-25,"Diabetes Mellitus, Type 2, Uncontrolled",439.46
+A259,1158,D32,2025-01-26,"Appendicitis, Acute",61.36
+A260,1230,D198,2025-01-04,"Fracture, Hip",170.11
+A261,1279,D22,2025-11-14,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,275.93
+A262,1252,D173,2025-12-01,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,80.35
+A263,1091,D293,2024-09-17,Cellulitis,496.86
+A264,1260,D152,2025-08-07,"Diabetes Mellitus, Type 2, Uncontrolled",156.41
+A265,1141,D214,2025-04-04,Acute Myocardial Infarction,218.43
+A266,1085,D230,2024-07-16,"Fracture, Hip",146.31
+A267,1028,D147,2024-07-08,"Hypertension, Uncontrolled",97.45
+A268,1133,D158,2025-12-22,"Appendicitis, Acute",154.62
+A269,1164,D70,2025-02-11,Pulmonary Embolism,185.27
+A270,1084,D189,2025-07-05,"Appendicitis, Acute",335.5
+A271,1059,D158,2025-03-24,Anxiety Disorder,176.56
+A272,1283,D101,2024-12-31,Asthma Exacerbation,213.02
+A273,1021,D282,2025-06-28,"Pneumonia, Bacterial",52.67
+A274,1282,D190,2024-07-19,"Cholecystitis, Acute",214.57
+A275,1122,D125,2024-07-09,"Cholecystitis, Acute",290.25
+A276,1238,D271,2024-05-30,Pulmonary Embolism,122.91
+A277,1034,D230,2025-12-06,Cellulitis,318.84
+A278,1172,D292,2025-07-04,"Cholecystitis, Acute",181.92
+A279,1229,D102,2024-08-16,"Appendicitis, Acute",334.42
+A280,1131,D145,2024-07-15,Urinary Tract Infection (UTI),61.79
+A281,1107,D71,2025-03-10,Anxiety Disorder,449.42
+A282,1148,D219,2024-12-09,"Heart Failure, Congestive",57.25
+A283,1059,D253,2024-12-07,"Heart Failure, Congestive",107.13
+A284,1064,D208,2024-11-10,Acute Myocardial Infarction,399.72
+A285,1073,D214,2024-04-25,"Pneumonia, Bacterial",70.65
+A286,1012,D44,2025-09-18,Asthma Exacerbation,369.95
+A287,1274,D280,2025-08-28,Deep Vein Thrombosis (DVT),486.97
+A288,1023,D43,2026-03-13,Cellulitis,442.26
+A289,1279,D243,2025-08-02,"Fracture, Hip",369.57
+A290,1004,D51,2025-07-22,"Pneumonia, Bacterial",481.33
+A291,1197,D206,2024-05-15,"Diabetes Mellitus, Type 2, Uncontrolled",243.42
+A292,1165,D224,2025-07-10,Sepsis,442.8
+A293,1013,D54,2024-11-07,Kidney Stone (Nephrolithiasis),210.18
+A294,1283,D168,2024-12-04,Deep Vein Thrombosis (DVT),468.39
+A295,1220,D75,2025-06-09,"Pneumonia, Bacterial",116.95
+A296,1264,D286,2025-04-23,Asthma Exacerbation,473.01
+A297,1131,D55,2024-10-02,Pulmonary Embolism,424.72
+A298,1088,D295,2025-10-30,Cellulitis,430.72
+A299,1056,D151,2025-10-10,Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,105.77
+A300,1034,D02,2026-01-18,Sepsis,318.42
